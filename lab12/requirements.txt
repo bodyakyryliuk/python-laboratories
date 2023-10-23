@@ -1,0 +1,7 @@
+
+Prepare:
+    -wireframe
+    -testing
+    -registration
+    -login
+    -confirmation with email
